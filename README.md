@@ -1,6 +1,6 @@
 # BibTeX reference list
 
-Inspired by [this post][http://markelikalderon.com/2008/06/17/gitting-bibtex/] I have
+Inspired by [this post](http://markelikalderon.com/2008/06/17/gitting-bibtex/) I have
 decided to start managing my BibTeX reference file(s) using git, keeping a public 
 copy on github.
 
