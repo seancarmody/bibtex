@@ -16,6 +16,10 @@ by subject.
 
 PDF versions of many of the papers are in the same directory here locally, so I have put *.pdf in the .gitignore file so they don't all end up on github!
 
+Note: because I use this repo across Windows and OSX machines, I have the git autocrlf option set to true. This can be done with the following command:
+
+> git config --global core.autocrlf true
+
 Sean Carmody.
 
 [bibdesk]: http://bibdesk.sourceforge.net/ BibDesk
